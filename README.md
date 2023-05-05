@@ -1,5 +1,4 @@
-# A re-implementation of "Learning with Noisy Labels (NIPS 2013)"
-# ECE 50024 Machine Learning I - Course Project
+# ECE 50024 Machine Learning I Course Project - A re-implementation of "Learning with Noisy Labels (NIPS 2013)"
 
 # Acknowledgement: The following resources are referenced for the project
 * (1) Original paper online: https://proceedings.neurips.cc/paper_files/paper/2013/file/3871bd64012152bfb53fdf04b401193f-Paper.pdf
